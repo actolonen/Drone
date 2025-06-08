@@ -1,13 +1,8 @@
-# Tello drone code
+# Python programs to control a Tello drone
 
 ## Code to control drone flight
 
--   Capture video
-
-<!-- -->
-
--   Capture video and sensor data
-
--   Basic flight routine
+-   [Code](Code/tello_camera_sensors.ipynb) to capture a video stream
+-   [Code](Code/tello_camera-flight_threaded.ipynb) to execute a basic flight routine with streaming video.
 
 ##
