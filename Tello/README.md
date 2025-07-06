@@ -25,4 +25,5 @@ The djitellopy library is not available in conda (I use micromamba), and so must
 -   [Code](Code/Flight/tello_camera-flight_threaded.ipynb) to execute a basic flight routine with streaming video showing sensor data (battery level).
 
 ### Keyboard control
--   [Code](Code/keyboard_input.ibynb) to capture keyboard inputs from the user
+-   [Code](Code/keyboard_input.ibynb) to capture keyboard inputs from the user and print to STDOUT
+
