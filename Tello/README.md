@@ -33,4 +33,6 @@ The djitellopy library is not available in conda (I use micromamba), and so must
 
 ### Keyboard control
 
--   [Code](Code/keyboard_input.ibynb) to capture keyboard inputs from the user and print to STDOUT
+-   [Code](Code/Keyboard/keyboard_input.ibynb) to capture keyboard inputs from the user and print to STDOUT
+-   [Code](Code/Keyboard/keyboard_flight.ipynb) to control drone flight using the keyboard
+-   [Code](Code/Keyboard/keyboard_flight-video.ipynb) to control drone flight using the keyboard
