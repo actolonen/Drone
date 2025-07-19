@@ -26,7 +26,7 @@ The djitellopy library is not available in conda (I use micromamba), and so must
 -   [Code](Code/Video/tello_camera.ipynb) to capture a video stream
 -   [Code](Code/Video/tello_camera_sensors.ipynb) to capture a sensor data and video stream. Sensor data (battery level) is printed to the video stream window
 
-### Basic flight control
+### Flight control
 
 -   [Code](Code/Flight/tello_flight.ipynb) execute basic flight routine (no video)
 -   [Code](Code/Flight/tello_camera-flight_threaded.ipynb) to execute a basic flight routine with streaming video showing sensor data (battery level).
@@ -35,4 +35,4 @@ The djitellopy library is not available in conda (I use micromamba), and so must
 
 -   [Code](Code/Keyboard/keyboard_input.ibynb) to capture keyboard inputs from the user and print to STDOUT
 -   [Code](Code/Keyboard/keyboard_flight.ipynb) to control drone flight using the keyboard
--   [Code](Code/Keyboard/keyboard_flight-video.ipynb) to control drone flight using the keyboard
+-   [Code](Code/Keyboard/keyboard_flight-video.ipynb) to control drone flight using the keyboard with streaming video.
